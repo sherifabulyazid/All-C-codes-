@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1701040305 source:f:\_ after army\november\projectamit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDB.h"
+	"STD.h"
+
+1701041010 f:\_ after army\november\projectamit\sdb.h
+	"STD.h"
+
+1701040305 f:\_ after army\november\projectamit\std.h
+
+1701097654 source:f:\_ after army\november\projectamit\sdb.c
+	<stdio.h>
+	<string.h>
+	"SDB.h"
+	"STD.h"
+
+1701549068 source:f:\amit codes\c\project\projectamit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDB.h"
+	"STD.h"
+
+1701553467 f:\amit codes\c\project\projectamit\sdb.h
+	"STD.h"
+
+1701040305 f:\amit codes\c\project\projectamit\std.h
+
+1701550471 source:f:\amit codes\c\project\projectamit\sdb.c
+	<stdio.h>
+	<string.h>
+	"SDB.h"
+	"STD.h"
+
